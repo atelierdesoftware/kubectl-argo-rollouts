@@ -38,4 +38,4 @@ if [ ! -f "$HOME/.kube/config" ]; then
     fi
 fi
 
-kubectl argo $*
+kubectl argo rollouts $*
