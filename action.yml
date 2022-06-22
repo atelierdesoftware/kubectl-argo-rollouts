@@ -1,4 +1,4 @@
-name: 'kubectl-argo-rollouts cli'
+name: 'Kubectl argo rollouts'
 description: 'GitHub Action for interacting with kubectl-argo-rollouts (kubectl-argo-rollouts)'
 author: 'meakawa <meakawa@icloud.com>'
 branding:
