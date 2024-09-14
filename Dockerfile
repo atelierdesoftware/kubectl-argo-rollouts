@@ -1,4 +1,4 @@
-FROM starubiquitous/kubectl:master
+FROM starubiquitous/kubectl:v1.31.0
 
 ARG ARGO_VERSION="1.2.0"
 
